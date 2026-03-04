@@ -94,7 +94,7 @@
     "bootstrap": "~3.4.1",
     "bootstrap-sweetalert": "~0.4.2",
     "chart.js": "~2.3.0",
-    "underscore": "1.9.1",
+    "underscore": "1.13.8",
     "lodash": "~4.17.11",
     "components-font-awesome": "~4.2.0",
     "dexie": "~1.2.0",
